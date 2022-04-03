@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Todays-Plan-Firebase-/static/css/main.2c5a1976.css",
-    "main.js": "/Todays-Plan-Firebase-/static/js/main.9747ce88.js",
-    "static/js/787.63e47474.chunk.js": "/Todays-Plan-Firebase-/static/js/787.63e47474.chunk.js",
-    "index.html": "/Todays-Plan-Firebase-/index.html",
-    "main.2c5a1976.css.map": "/Todays-Plan-Firebase-/static/css/main.2c5a1976.css.map",
-    "main.9747ce88.js.map": "/Todays-Plan-Firebase-/static/js/main.9747ce88.js.map",
-    "787.63e47474.chunk.js.map": "/Todays-Plan-Firebase-/static/js/787.63e47474.chunk.js.map"
+    "main.css": "/Todays-Plan-Firebase/static/css/main.2c5a1976.css",
+    "main.js": "/Todays-Plan-Firebase/static/js/main.43e76f66.js",
+    "static/js/787.63e47474.chunk.js": "/Todays-Plan-Firebase/static/js/787.63e47474.chunk.js",
+    "index.html": "/Todays-Plan-Firebase/index.html",
+    "main.2c5a1976.css.map": "/Todays-Plan-Firebase/static/css/main.2c5a1976.css.map",
+    "main.43e76f66.js.map": "/Todays-Plan-Firebase/static/js/main.43e76f66.js.map",
+    "787.63e47474.chunk.js.map": "/Todays-Plan-Firebase/static/js/787.63e47474.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2c5a1976.css",
-    "static/js/main.9747ce88.js"
+    "static/js/main.43e76f66.js"
   ]
 }
